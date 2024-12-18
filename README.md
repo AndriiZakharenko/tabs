@@ -1,16 +1,25 @@
-# React Tabs (JS)
+# Tabs
 
-Implemented the `Tabs` component that renders several tabs and allows the user to switch between them.
+### Description
 
-The `App` should communicate with the `Tabs` component using the following props:
+- Implemented the `Tabs` component that renders several tabs and allows the user to switch between them
 
-- `tabs` - an array of tab objects to be rendered as `Tabs`;
-- `activeTabId` - the `id` of the tab that should be active;
-- `onTabSelected` - a callback executed with the `id` of a just selected tab when the user clicks on it.
+### Stack
 
-The `Tabs` component should be stateless (does not have an internal state, only props).
+- HTML (BEM)
+- CSS (Bulma)
+- JS
+- React
+- ReactDOM
 
+### Tools
 
-## Demo Links
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Babel
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_tabs-js/)
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/tabs/)
